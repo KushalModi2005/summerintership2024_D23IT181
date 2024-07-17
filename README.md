@@ -1,12 +1,13 @@
 # summerintership2024_D23IT181
 # 4th Sem Summer Internship
 # Start of Internship
-# week 1
+ week 1
 Here is the Outine of Week-1:
-1.learn php 
-2. practice on the php 
-3. insert , update & delete 
-4.learn jquery 
+•	1.learn php 
+•	2. practice on the php 
+•	3. insert , update & delete 
+•	4.learn jquery 
+
 
  Day-by-Day Progress
 13/05
